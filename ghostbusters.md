@@ -1,6 +1,7 @@
 # A Look at Ghostbusters
 
-[](https://www.youtube.com/watch?v=BPoILjs6BYI)![](video.png)
+![](video.png)
+[Watch Video](https://www.youtube.com/watch?v=BPoILjs6BYI)
 
 “Ghostbusters” was the third biggest thing in my life when I was a kid, overshadowed only by “Star Wars” or perhaps “Transformers.” I didn't see the movie when it came out in theaters. I'm pretty sure my parents were pretty much against it. I do remember my cousin telling me how funny it was when our families got together for Thanksgiving that year. It only made me want to see it even more. I don't believe that I've seen it in the movie theater, so I'm fairly sure the first time I watched it was on TV. I now own the re-releases on DVD.
 
