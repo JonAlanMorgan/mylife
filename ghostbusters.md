@@ -10,4 +10,4 @@ The most fun thing about “Ghostbusters” was that you could role play your ow
 I was also a fan of the “Real Ghostbusters” when it was shown on Saturday mornings. I may have gotten the most exposure via the cartoon, and then discovered the movie later.
 What are your first memories of “Ghostbusters?”
 
-
+| [Suggest Changes](https://quip.com/3F3oAWpzVIXL) |
