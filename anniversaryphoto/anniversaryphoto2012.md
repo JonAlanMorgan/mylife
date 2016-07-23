@@ -2,4 +2,4 @@
 
 ![](anniversaryphoto.jpg)
 
-Here is a photo of Thresa and I from 2012.
+Here is a photo of Theresa and I from 2012.
