@@ -1,6 +1,5 @@
 # Grandparents Reacting to Technology
 
-# Grandparents Trying New Things
 ![](video.png)
 
 [Watch Video](https://www.facebook.com/onthisday/?source=notification¬if_t=onthisday¬if_id=1467311998888939)
