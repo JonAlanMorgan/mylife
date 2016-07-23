@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Ghostbusters](ghostbusters.md)
-* Grandparents Reacting to Technology
+* [Grandparents Reacting to Technology](grandparentsreacting.md)
 
