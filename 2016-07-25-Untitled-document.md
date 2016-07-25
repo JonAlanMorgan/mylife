@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: This is a test
 layout: post
 author: beingjonmorgan
 permalink: /untitled-document/
@@ -8,5 +8,5 @@ published: true
 ---
 # This is a Test
 
-This is a test
+This is also a test.
 
